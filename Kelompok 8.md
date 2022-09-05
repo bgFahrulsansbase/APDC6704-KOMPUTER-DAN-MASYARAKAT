@@ -4,7 +4,7 @@
 ---
 # 1980 _Commercially Available Ethernet_ - 1983 _Microsoft Word_
 ---
-### a. 1980 _Commercially Available Ethernet_
+
 ### a. 1980 _Commercially Available Ethernet_
 1.1 Jenis-jenis LAN
 Berbagai jenis LAN pada dasarnya ada dua jenis yaitu: ARCnet dan Ethernet. ARCNET (Attached Resource Computer NETwork) adalah salah satu jenis protokol jaringan area lokal yang tertua, paling sederhana, dan paling murah, yang fungsinya mirip dengan Ethernet atau Token Ring. ARCNET adalah sistem jaringan pertama yang tersedia secara luas untuk mikrokomputer dan menjadi populer pada 1980-an untuk tugas otomatisasi kantor. ARCnet diperkenalkan oleh Datapoint Corporation pada tahun 1977. Keuntungan khusus dari ARCNET adalah memungkinkan berbagai jenis media transmisi -twisted-pair wire, coaxial cable, dan fiber optic cable -untuk dicampur pada jaringan yang sama.

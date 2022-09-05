@@ -23,13 +23,35 @@ dikembangkan tahun 1960 pada proyek wireless ALOHA di Hawaii University pada kab
 1.5 Fungsi Ethernal
 Ethernet adalah sistem jaringan area lokal (LAN), yang berarti menghubungkan komputer dan digital perangkat dalam area geografis kecil, seperti di dalam gedung perkantoran. Ethernet digunakan dalam teknologi akses menyediakan akses internet atau interface user ke network. Sampai saat ini kondisi tersebut masih berjalan tetapi standar ethernet-nya sendiri dikembangkan untuk mampu melayani data pada jaringan transport. Fungsi-fungsi layanan pada teknologi ethernet sebagai jaringan transport merupakan hasil pengembangan yang terus menerus. Arsitektur Ethernet memiliki kemampuan berbagi bandwidth atau resource dalam suatu jaringan yang sama. Protokol yang digunakan pada arsitektur ini adalah CSMA/CD (Carrier Sense Multiple Access With Collision Detections), protokol ini berfungsi supaya tidak terjadi collision ketika berbagi bandwidth. Collision merupakan suatu kondisi dimana ada beberapa source computer yang mengirimkan data pada saat yang sama sehingga data yang dikirimkan melalui jaringan tersebut akan bertabrakan dan data tidak akan terkirim.
 
-Daftar Pustaka
-1. Schaefer, P. (2013). Why is" ether" in Ethernet?. International Journal of Communication (19328036), 7.
-2. Tim, E. M. S. (2015). Kamus komputer lengkap. Elex Media Komputindo.
-3. Rastogi, U. (2019). Computer network and its consequences–a literature survey. International Journal of Health, Education & Social (IJHES), 2(11), 5-19.
-4. Bachtiar, Y. (2015). Peranan Metro Ethernet Sebagai Penghubung Komunikasi Antar Sto. Univ. Diponegoro.
 
 ### b. 1983 _Microsoft Word_ 
+
+Word dikembangkan oleh dua mantan karyawan Pusat Penelitian Xerox Palo Alto
+—Charles Simonyi dan Richard Brodie—keduanya
+menciptakan apa yang pertama di dunia Apa yang Anda Lihat Adalah Apa yang Anda Dapatkan (WYSIWYG) pengolah kata, Bravo. WYSIWYG berarti bahwa kata
+prosesor berjalan pada layar grafis, menunjukkan font dengan jarak proporsional,
+boldface, cetak miring, dan banyak lagi.
+
+Word 1.0 (awalnya bernama Multi-Tool Word) dirilis pada bulan Oktober
+1983 untuk sistem operasi MS-DOS dan Xenix. Tapi itu bukan yang pertama:
+program yang bersaing termasuk WordPerfect®, pengolah kata mode teks
+dikembangkan untuk komputer mini Data Umum, dan WordStar, sebuah kata
+prosesor yang dibuat untuk komputer mikro 8-bit, keduanya dikembangkan pada akhir
+1970-an dan di-porting ke MS-DOS pada tahun 1982. Ketiga program berjalan dalam mode teks;
+Word tidak berjalan dalam mode grafis pada PC sampai tahun 1989, ketika Microsoft
+merilis Word untuk Windows. Microsoft melakukan semua yang bisa dilakukan untuk mendorong adopsi Word, termasuk
+bundling salinan gratis dari program dalam edisi November 1983
+Majalah PCWorld, pertama kalinya disk didistribusikan oleh majalah.
+
+Versi WYSIWYG pertama dari Microsoft Word adalah Word untuk
+Apple Macintosh, yang dikirim Microsoft pada tahun 1985. Programnya begitu
+populer—dan jauh lebih baik daripada Word di MS-DOS—sehingga membantu bahan bakar
+penjualan Macintosh. Word diuntungkan saat sistem operasi Microsoft semakin populer—
+MS-DOS pertama, lalu Windows—dan sebagai alat di Microsoft Office Suite
+Diperluas. Seiring waktu, semakin banyak orang yang menggunakan Word, semakin sulit menjadi kolaborator mereka untuk menggunakan pengolah kata lain—prima
+contoh dari apa yang sekarang disebut oleh para ekonom sebagai efek jaringan.
+
+
 2.1 Microsoft office
 Sejarah Microsoft Office dan perkembangannya dari tahun ke tahun memang perlu
 kita ketahui, agar kita juga tidak ketinggalan versi-versi terbarunya. Karena tidak bisa
@@ -69,3 +91,10 @@ l. Print : mencetak dokumen dan mengatur kerja printer
 m. Send to :mengirim document melalui E-mail
 n. Propertise :mengetahui beberapa keterangan mengenai dokument.
 o. Exit : menutup program Ms. Word
+
+
+Daftar Pustaka
+1. Schaefer, P. (2013). Why is" ether" in Ethernet?. International Journal of Communication (19328036), 7.
+2. Tim, E. M. S. (2015). Kamus komputer lengkap. Elex Media Komputindo.
+3. Rastogi, U. (2019). Computer network and its consequences–a literature survey. International Journal of Health, Education & Social (IJHES), 2(11), 5-19.
+4. Bachtiar, Y. (2015). Peranan Metro Ethernet Sebagai Penghubung Komunikasi Antar Sto. Univ. Diponegoro.

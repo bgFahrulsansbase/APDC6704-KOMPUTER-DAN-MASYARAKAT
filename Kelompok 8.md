@@ -85,20 +85,35 @@ office word (Wali, 2018)
 
 1. Menu file
 Beberapa menu file, sub menu file diantaranya:
+
 a. New : membuka document baru yang masih kosong
+
 b. Open: membyuka file document yang telah disimpan
+
 c. Close: menutup document
+
 d. Save : menyimpan document ke media penyimpanan
+
 e. Save As : menyimpan document ke media penyimpanan dengan format lain
+
 f. Save As web Page : menyimpan dalam format file web page
+
 g. Search : mencari teks tertentu dari suatu file
+
 h. Versions : untuk mengetahui versi Ms. Word
+
 i. Web page priview : melihat tampilan dokumen dalam format web page
+
 j. Page setup : mengatur tampilan halaman yang akan di cetak
+
 k. Print priview :melihat tampilan dari dokumen yag akan di cetak
+
 l. Print : mencetak dokumen dan mengatur kerja printer
+
 m. Send to :mengirim document melalui E-mail
+
 n. Propertise :mengetahui beberapa keterangan mengenai dokument.
+
 o. Exit : menutup program Ms. Word
 
 

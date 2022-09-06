@@ -117,7 +117,8 @@ n. Propertise :mengetahui beberapa keterangan mengenai dokument.
 o. Exit : menutup program Ms. Word
 
 
-#### Daftar Pustaka
+
+### Daftar Pustaka
 
 1. Schaefer, P. (2013). Why is" ether" in Ethernet?. International Journal of Communication (19328036), 7.
 2. Tim, E. M. S. (2015). Kamus komputer lengkap. Elex Media Komputindo.

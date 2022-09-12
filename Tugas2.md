@@ -121,4 +121,5 @@ Keenam, akses pendidikan. Salah satu kebijakan pemerintah di bidang pendidikan a
 2. Jamun, Y. M. (2018). Dampak teknologi terhadap pendidikan. Jurnal Pendidikan dan Kebudayaan Missio, 10(1), 48-52.
 3. Fadhila, R., & Afriani, T. (2020). Penerapan telenursing dalam pelayanan kesehatan: Literature Review. Jurnal Keperawatan Abdurrab, 3(2), 77-84.
 4. Setiawan, D. (2018). Dampak perkembangan teknologi informasi dan komunikasi terhadap budaya. JURNAL SIMBOLIKA: Research and Learning in Communication Study (E-Journal), 4(1), 62-72.
-5. Megahantara, G. S. (2017). Pengaruh teknologi terhadap pendidikan di abad 21. Yogyakarta: Universitas Negeri Yogyakarta.
+5. Megahantara, G. S. (2017). Pengaruh teknologi terhadap pendidikan di abad 21. Yogyakarta: Universitas Negeri Yogyakarta.  
+6. Ngafifi, M. (2014). Kemajuan teknologi dan pola hidup manusia dalam perspektif sosial budaya. Jurnal Pembangunan Pendidikan: Fondasi dan Aplikasi, 2(1).

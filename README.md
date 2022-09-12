@@ -53,7 +53,6 @@ MS-DOS pertama, lalu Windows—dan sebagai alat di Microsoft Office Suite
 Diperluas. Seiring waktu, semakin banyak orang yang menggunakan Word, semakin sulit menjadi kolaborator mereka untuk menggunakan pengolah kata lain—prima
 contoh dari apa yang sekarang disebut oleh para ekonom sebagai efek jaringan.  
 
----  
 #### 2.1 Microsoft office
 
 Sejarah Microsoft Office dan perkembangannya dari tahun ke tahun memang perlu
@@ -81,21 +80,22 @@ office word (Wali, 2018)
 
 1. Menu file
 Beberapa menu file, sub menu file diantaranya:  
-a. New : membuka document baru yang masih kosong  
-b. Open: membyuka file document yang telah disimpan  
-c. Close: menutup document  
-d. Save : menyimpan document ke media penyimpanan  
-e. Save As : menyimpan document ke media penyimpanan dengan format lain  
-f. Save As web Page : menyimpan dalam format file web page  
-g. Search : mencari teks tertentu dari suatu file  
-h. Versions : untuk mengetahui versi Ms. Word  
-i. Web page priview : melihat tampilan dokumen dalam format web page  
-j. Page setup : mengatur tampilan halaman yang akan di cetak  
-k. Print priview :melihat tampilan dari dokumen yag akan di cetak  
-l. Print : mencetak dokumen dan mengatur kerja printer  
-m. Send to :mengirim document melalui E-mail  
-n. Propertise :mengetahui beberapa keterangan mengenai dokument.  
-o. Exit : menutup program Ms. Word  
+
++ New : membuka document baru yang masih kosong  
++ Open: membyuka file document yang telah disimpan  
++ Close: menutup document  
++ Save : menyimpan document ke media penyimpanan  
++ Save As : menyimpan document ke media penyimpanan dengan format lain  
++ Save As web Page : menyimpan dalam format file web page  
++ Search : mencari teks tertentu dari suatu file  
++ Versions : untuk mengetahui versi Ms. Word  
++ Web page priview : melihat tampilan dokumen dalam format web page  
++ Page setup : mengatur tampilan halaman yang akan di cetak  
++ Print priview :melihat tampilan dari dokumen yag akan di cetak  
++ Print : mencetak dokumen dan mengatur kerja printer  
++ Send to :mengirim document melalui E-mail  
++ Propertise :mengetahui beberapa keterangan mengenai dokument.  
++ Exit : menutup program Ms. Word  
 
 
 ## DAFTAR PUSTAKA   

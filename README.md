@@ -102,14 +102,10 @@ g. Search : mencari teks tertentu dari suatu file
 h. Versions : untuk mengetahui versi Ms. Word
 
 i. Web page priview : melihat tampilan dokumen dalam format web page
-
 j. Page setup : mengatur tampilan halaman yang akan di cetak
-
-k. Print priview :melihat tampilan dari dokumen yag akan di cetak
-
-l. Print : mencetak dokumen dan mengatur kerja printer
-
-m. Send to :mengirim document melalui E-mail
+k. Print priview :melihat tampilan dari dokumen yag akan di cetak  
+l. Print : mencetak dokumen dan mengatur kerja printer  
+m. Send to :mengirim document melalui E-mail  
 
 n. Propertise :mengetahui beberapa keterangan mengenai dokument.
 

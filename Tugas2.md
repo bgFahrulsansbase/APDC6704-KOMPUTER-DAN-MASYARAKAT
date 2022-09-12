@@ -90,7 +90,28 @@ d) Masyarakat tidak perlu lagi membeli koran untuk mengetahui informasi mengenai
 e) Semakin berkembangnya daya pikir individu dalam suatu bidang, baik dari segi ekonomi, politik, pendidikan, dan lain sebagainya; 
 f) Kemampuan individu dalam mencari dan mengumpulkan data untuk bahan diskusi dapat mereka dapatkan dengan cepat dan akurat melalui media berbasis teknologi.
 
+---
 
+## Pengaruh Negatif
+
+Tantangan Pendidikan di Era Globalisasi Dewasa ini globalisasi sudah mulai menjadi permasalahan aktual pendidikan. Beberapa tantangan pendidikan di era globalisasi yang pertama adalah kualitas pendidikan.
+Permasalahan globalisasi dalam bidang pendidikan terutama menyangkut output pendidikan. Seperti diketahui, di era globalisasi dewasa ini telah terjadi pergeseran paradigma tentang keunggulan suatu negara, dari keunggulan komparatif (comperative adventage) kepada keunggulan kompetitif (competitive advantage). Keunggulam komparatif bertumpu pada kekayaan sumber daya alam, sementara keunggulan kompetitif bertumpu pada pemilikan sumber daya manusia (SDM) yang berkualitas artinya dalam konteks pergeseran paradigma keunggulan tersebut, pendidikan nasional akan menghadapi situasi kompetitif yang sangat tinggi, karena harus berhadapan dengan kekuatan pendidikan global.
+
+Kedua, peofesionalisme tenaga kependidikan.
+Salah satu komponen penting dalam kegiatan pendidikan dan proses pembelajaran adalah pendidik atau guru. Betapapun kemajuan teknologi telah menyediakan berbagai ragam alat bantu untuk meningkatkan efektifitas proses pembelajaran, namun posisi guru tidak
+sepenuhnya dapat tergantikan. Itu artinya guru merupakan variabel penting bagi keberhasilan pendidikan.
+
+Ketiga, kebudayaan atau akulturasi. Suatu
+perkembangan kebudayaan dalam abad modern saat ini adalah tidak dapat terhindar
+dari pengaruh kebudayan bangsa lain. Kondisi demikian menyebabkan timbulnya proses alkulturasi yaitu pertukaran dan saling berbaurnya antara kebudayaan yang satu dengan yang lainnya. Dari sinilah terdapat tantangan bagi pendidikan- pendidikan yaitu dengan adanya alkulturasi tersebut maka akan mudah masuk pengaruh negatif bagi kebudayaan, moral dan akhlak anak. Oleh karena itu hal ini merupakan tantangan bagi pendidikan untuk memfilter
+budaya-budaya yang masuk agar tidak terkena dampak negatif dari masuknya budaya asing.
+
+Keempat, strategi pembelajaran. Era globalisasi dewasa ini mempunyai pengaruh yang sangat signifikan terhadap pola pembelajaran yang mampu memberdayakan para peserta didik. Tuntutan global telah mengubah paradigma pembelajaran dari paradigma pembelajaran tradisional ke paradigma pembelajaran modern, namun namun kenyataannya menunjukkan praktek pembelajaran lebih banyak menerapkan strategi pembelajaran tradisional dari pembelajaran baru. Hal ini agaknya berkaitan erat dengan rendahnya professionalisme guru. 
+
+Kelima, perbaikan manajemen. Perbaikan manajemen pendidikan dan manajemen
+sekolah diarahkan untuk lebih memberdayakan lembaga-lembaga pendidikan dan sekolah sebagai unit pelaksanaan terdepan dalam kegiatan belajar mengajar disekolah.   
+
+Keenam, akses pendidikan. Salah satu kebijakan pemerintah di bidang pendidikan adalah terlaksananya wajib belajar Pendidikan Dasar 9 tahun yang sekarang sudah menuju wajib belajar 12 tahun. Keberhasilan implementasi kebijakan ini mempunyai dampak strategis sebagai salah satu upaya meningkatkan kualitas sumber daya manusia Indonesia. Ketujuh, kemajuan ilmu pengetahuan dan teknologi. Sebagaimana telah kita sadari bersama bahwa dampak positif dari pada kemajuan teknologi sampai kini adalah bersifat fasilitatif (memudahkan). Teknologi menawarkan berbagai kesantaian dan ketenangan yang semakin beragam.
 
 
 

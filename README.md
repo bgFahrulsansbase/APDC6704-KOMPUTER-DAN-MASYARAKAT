@@ -78,7 +78,7 @@ office word (Wali, 2018)
 
 #### 2.3 Menu-menu pada Microsoft word
 
-1. Menu file
+1. Menu file  
 Beberapa menu file, sub menu file diantaranya:  
 
 + New : membuka document baru yang masih kosong  

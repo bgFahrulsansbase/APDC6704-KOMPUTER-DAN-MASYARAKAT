@@ -24,6 +24,7 @@ Ethernet adalah suatu sistem jaringan yang dibuat dan dipatenkan perusahaan Xero
 #### 1.5 Fungsi Ethernet  
 
 Ethernet adalah sistem jaringan area lokal (LAN), yang berarti menghubungkan komputer dan digital perangkat dalam area geografis kecil, seperti di dalam gedung perkantoran. Ethernet digunakan dalam teknologi akses menyediakan akses internet atau interface user ke network. Sampai saat ini kondisi tersebut masih berjalan tetapi standar ethernet-nya sendiri dikembangkan untuk mampu melayani data pada jaringan transport. Fungsi-fungsi layanan pada teknologi ethernet sebagai jaringan transport merupakan hasil pengembangan yang terus menerus. Arsitektur Ethernet memiliki kemampuan berbagi bandwidth atau resource dalam suatu jaringan yang sama. Protokol yang digunakan pada arsitektur ini adalah CSMA/CD (Carrier Sense Multiple Access With Collision Detections), protokol ini berfungsi supaya tidak terjadi collision ketika berbagi bandwidth. Collision merupakan suatu kondisi dimana ada beberapa source computer yang mengirimkan data pada saat yang sama sehingga data yang dikirimkan melalui jaringan tersebut akan bertabrakan dan data tidak akan terkirim.  
+
 ---  
 ### b. 1983 _Microsoft Word_ 
 
@@ -51,6 +52,7 @@ penjualan Macintosh. Word diuntungkan saat sistem operasi Microsoft semakin popu
 MS-DOS pertama, lalu Windows—dan sebagai alat di Microsoft Office Suite
 Diperluas. Seiring waktu, semakin banyak orang yang menggunakan Word, semakin sulit menjadi kolaborator mereka untuk menggunakan pengolah kata lain—prima
 contoh dari apa yang sekarang disebut oleh para ekonom sebagai efek jaringan.  
+
 ---  
 #### 2.1 Microsoft office
 

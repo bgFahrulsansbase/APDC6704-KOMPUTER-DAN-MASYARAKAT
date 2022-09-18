@@ -12,7 +12,11 @@
 
 Cerita perkembangan teknologi dari 1980 - 1983
 
-Pada tahun 1973, __Ethernet__ diciptakan oleh sebuah tim di California yang bernama Xerox Corporation's Palo Alto Research Center (Xerox PARC), tim ini dipimpin oleh insinyur listrik keturunan Amerika yang bernama Robert Metcalfe. Ethernet berguna untuk menghubungkan beberapa komputer yang berjarak jauh. Ethernet dikomersialisasikan pada tahun 1980
+Pada tahun 1973 __Ethernet__ diciptakan oleh sebuah tim di California yang bernama Xerox Corporation's Palo Alto Research Center (Xerox PARC), tim ini dipimpin oleh insinyur listrik keturunan Amerika yang bernama Robert Metcalfe. Ethernet berguna untuk menghubungkan beberapa komputer yang berjarak jauh. Ethernet dikomersialisasikan pada tahun 1980.
+
+Pada tahun 1979 __Usenet__ mulai dikembangkan oleh dua orang mahasiswa dari Duke University yang bernama Tom Truscott and Jim Ellis, dan Usenet selesai dikembangkan pada tahun 1980. Usenet adalah sebuah sistem pada komputer yang bisa membuat orang-orang saling mengirim pesan dan berdiskusi tentang sebuah topik. Cara kerjanya mirip dengan forum-forum yang terdapat di Internet pada jaman kita sekarang.
+
+__IBM PC__ merupakan mikrokomputer pertama yang diciptakan pada tahun 1981 oleh tim insinyur yang dipimpin oleh Don Estridge. IBM PC menjadi landasan besar untuk komputer-komputer yang kita lihat sekarang, mulai dari bentuknya samapai komponen-komponennnya.
 
 ---
 # Ringkasan

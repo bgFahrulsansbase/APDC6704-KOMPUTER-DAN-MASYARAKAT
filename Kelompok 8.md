@@ -16,6 +16,8 @@ Pada tahun 1973 __Ethernet__ diciptakan oleh sebuah tim di California yang berna
 
 Pada tahun 1979 __Usenet__ mulai dikembangkan oleh dua orang mahasiswa dari Duke University yang bernama Tom Truscott and Jim Ellis, dan Usenet selesai dikembangkan pada tahun 1980. Usenet adalah sebuah sistem pada komputer yang bisa membuat orang-orang saling mengirim pesan dan berdiskusi tentang sebuah topik. Cara kerjanya mirip dengan forum-forum yang terdapat di Internet pada jaman kita sekarang.
 
+![800px-IBM_PC-IMG_7271_(transparent)](https://user-images.githubusercontent.com/74659819/190919807-0024ae91-cc49-4ee9-aa2a-02f78676c41e.png)
+
 __IBM PC__ merupakan mikrokomputer pertama yang diciptakan pada tahun 1981 oleh tim insinyur yang dipimpin oleh Don Estridge. IBM PC menjadi landasan besar untuk komputer-komputer yang kita lihat sekarang, mulai dari bentuknya samapai komponen-komponennnya.
 
 ---

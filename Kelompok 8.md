@@ -37,7 +37,17 @@ Pada tahun 1981 IBM membuat kontrak kepada Microsoft untuk membuat sistem operas
 
 CGI pertama kali yang digunakan pada dunia perfilman adalah pada film Star Trek II: The Wrath of Khan yang dirilis pada tahun 1982, dan software digunakan adalah The Genesis sequence. Hal ini terjadi pada tahun 1982 dan pada saat itu dianggap menjadi terobosan yang baru bagi dunia perfilman. Oleh karena itu hal ini diberi julukan __First CGI Sequence in Feature Film__.
 
+![piramida national geographic](https://user-images.githubusercontent.com/74659819/190955156-d24ad38c-4765-484e-a8bd-b48a48caa027.jpg)
+
 Scitex adalah program yang digunakan National Graphics untuk mendesain salah satu dari gambarnya. Gambar tersebut di edit menggunakan Scitex untuk menampilkan pemandagan yang menakjubkan. Dengan bergantinya proses pengeditan ke era digital, banyak software-software pengedit gambar yang akan muncul di masa depan. Karena gambar yang di edit oleh National Graphics adalah gambar piramid, maka fenomena pada tahun 1982 ini disebut __National Geographic Moves the Pyramids__.
+
+Pada tahun 1982, seorang teoris dan ilmuwan komputer yang bernama Andrew Yao mengemukakan sebuah masalah matematika yang berhasil membuatnya memenangkan sebuah penghargaan, dan menjadi sebuah konsep yang direalisasikan ke teknologi sekarang. __Secure Multi-Party Computation__ adalah sebuah konsep dimana kita bisa mengetahui informasi dan disaat yang sama menjaga privasi kita. Contohnya di jaman sekarang adaalh auksi di e-Bay yang menjaga informasi pembelinya.
+
+__TRON__ adalah sebuah film yang dirilis pada tahun 1982 yang mengimplementasikan animasi komputer di dalam adegannya. Animasi tersebut dianimasi menggunakan software dan film ini dianggap sebagai sebuah terobosan bagi dunia perfilman. TRON menjadi sangat populer setelah video game yang berbasis dari film animasi tadi dibuat dan didistribusikan ke arcade-arcade.
+
+Seorang jurnalis yang bernama Otto Friedrich merilis sebuah artikel pada tahun 1982 yang diberi judul __Home Computer Named Machine of the Year__. Isi dari artikel ini menjelaskan bagaimana komputer personal adalah, menurut pendapat jurnalis itu, mesin terbaik yang diciptakan pada tahun 1982. Dia mengatakan hal tersebut karena komputer personal banyak sekali di pakai oleh orang-orang dengan pekerjaan yang berbeda-beda, dan komputer personal sangat bermanfaat bagi mereka.
+
+
 
 
 

@@ -1,6 +1,9 @@
-# KELOMPOK 8
-### Nama Anggota :
-### Fahrul Ikhsan Hidayatullah (1910131210004), Haili Sahwardi (1910131210016)
+# 1980 _Commercially Available Ethernet_ - 1983 _Microsoft Word_
+---  
+### Oleh Kelompok 8 : Fahrul Ikhsan Hidayatullah (1910131210004) & Haili Sahwardi (1910131210016)
+---  
+
+
 ---
 # Introduksi
 ---

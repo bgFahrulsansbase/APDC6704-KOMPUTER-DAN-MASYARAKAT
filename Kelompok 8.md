@@ -57,6 +57,8 @@ Pada tahun 1983, seseorang yang bernama Charles "Chuck" Hull menciptakan __3-D p
 
 Setelah dikembangkan selama lebih 20 tahun, dengan 5000 pekerja, dan sekitar 100 juta line baris code yang dituliskan disebuah sistem. Akhirnya __Computerization of the Local telephone Network__ berhasil terealisasi. Oleh karena itu pada tahun 1983, orang-orang jadi lebih mudah berkomunikasi satu sama lain karena teknologi telepon sudah sangat maju.
 
+![laptoppertama](https://user-images.githubusercontent.com/74659819/190964005-ea123426-0f3a-49c6-8117-269503c68fbe.jpg)
+
 __First Laptop__ pertama kali diciptakan pada tahun 1983. Laptop yang hanya memiliki berat sebanyak 1,3 kilo dan baterai yang tahan selama 20 jam itu menjadi sebuah terobosan dalam dunia teknologi. Teknologi ini bisa dibawa kemana-mana dan memiliki sangat banyak kegunaan yang dianggap cukup canggih pada masanya.
 
 

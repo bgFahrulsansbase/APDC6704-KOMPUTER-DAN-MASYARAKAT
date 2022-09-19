@@ -13,8 +13,6 @@
 # Isi
 ---
 
-Cerita perkembangan teknologi dari 1980 - 1983
-
 Pada tahun 1973 __Ethernet__ diciptakan oleh sebuah tim di California yang bernama Xerox Corporation's Palo Alto Research Center (Xerox PARC), tim ini dipimpin oleh insinyur listrik keturunan Amerika yang bernama Robert Metcalfe. Ethernet berguna untuk menghubungkan beberapa komputer yang berjarak jauh. Ethernet dikomersialisasikan pada tahun 1980.
 
 Pada tahun 1979 __Usenet__ mulai dikembangkan oleh dua orang mahasiswa dari Duke University yang bernama Tom Truscott and Jim Ellis, dan Usenet selesai dikembangkan pada tahun 1980. Usenet adalah sebuah sistem pada komputer yang bisa membuat orang-orang saling mengirim pesan dan berdiskusi tentang sebuah topik. Cara kerjanya mirip dengan forum-forum yang terdapat di Internet pada jaman kita sekarang.
@@ -37,7 +35,11 @@ __PostScript__ adalah bahasa komputer yang membuat proses memprint pada jamannya
 
 Pada tahun 1981 IBM membuat kontrak kepada Microsoft untuk membuat sistem operasi 16-bit untuk komputer IBM pada saat itu yang secara fungsi mirip dengan komputer saingan perusahaan mereka. Singkat cerita Microsoft pun berhasil menciptakan sistem itu yang diberikan nama DOS, dan karena legalitas dari kontrak antara IBM dan Microsoft, Microsoft boleh menjual lisensi DOS ke perusahaan lain dan lisesnsi DOS pun banyak dibeli. Menghasilkan banyak perusahaan yang menjual komputer dengan sistem yang sama. __Microsoft and the clones__.
 
-CGI pertama kali yang digunakan pada dunia perfilman adalah pada film Star Trek II: The Wrath of Khan, dan software digunakan adalah The Genesis sequence. Hal ini terjadi pada tahun 1982 dan pada saat itu dianggap menjadi terobosan yang baru bagi dunia perfilman. Oleh karena itu hal ini diberi julukan __First CGI Sequence in Feature Film__.
+CGI pertama kali yang digunakan pada dunia perfilman adalah pada film Star Trek II: The Wrath of Khan yang dirilis pada tahun 1982, dan software digunakan adalah The Genesis sequence. Hal ini terjadi pada tahun 1982 dan pada saat itu dianggap menjadi terobosan yang baru bagi dunia perfilman. Oleh karena itu hal ini diberi julukan __First CGI Sequence in Feature Film__.
+
+Scitex adalah program yang digunakan National Graphics untuk mendesain salah satu dari gambarnya. Gambar tersebut di edit menggunakan Scitex untuk menampilkan pemandagan yang menakjubkan. Dengan bergantinya proses pengeditan ke era digital, banyak software-software pengedit gambar yang akan muncul di masa depan. Karena gambar yang di edit oleh National Graphics adalah gambar piramid, maka fenomena pada tahun 1982 ini disebut __National Geographic Moves the Pyramids__.
+
+
 
 
 

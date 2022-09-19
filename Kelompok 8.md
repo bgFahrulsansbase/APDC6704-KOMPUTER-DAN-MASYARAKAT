@@ -23,6 +23,10 @@ Pada tahun 1979 __Usenet__ mulai dikembangkan oleh dua orang mahasiswa dari Duke
 
 __IBM PC__ merupakan mikrokomputer pertama yang diciptakan pada tahun 1981 oleh tim insinyur yang dipimpin oleh Don Estridge. IBM PC menjadi landasan besar untuk komputer-komputer yang kita lihat sekarang, mulai dari bentuknya samapai komponen-komponennnya.
 
+__SMTP__ mulai dikembangkan pada tahun 1980 oleh Jonathan Postel, dan sampai tahun 1981 SMTP terus dimodifikasi oleh insinyur-insinyur lainnya sampai produk akhirnya jadi. SMTP menjadi protokol standar bagi server pengiriman mail pada waktunya, dan bahkan sampai sekarang masih digunakan oleh beberapa penyedia servis mail.
+
+Pada tahun 1981, Jepang mulai menginvestasi banyak uang negaranya untuk menciptakan generasi baru komputer yang dinamakan __Japan's Fifth Generation Computer Systems__. Komputer generasi baru ini dikatakan berbeda dari generasi sebelumnya, karena komputer ini lebih memfokuskan ke CPU untuk menaikkan performa komputer.
+
 ---
 # Ringkasan
 ---

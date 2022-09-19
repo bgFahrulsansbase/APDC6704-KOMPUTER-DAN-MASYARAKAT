@@ -51,6 +51,8 @@ __The Qubit__ adalah metode baru quantum computing yang membuat sebuah komputer 
 
 __WarGames__ adalah sebuah film yang dirilis pada tahun 1983 yang bercerita tentang perang dunia ke-3 antara Amerika dan Soviet. Secara singkatnya, di film ini diceritakan seorang lelaki yang tidak tau bahwa dirinya meretas sistem keamanan nuklir Amerika karena dia ditantang oleh seseorang secara online. Dia pun menembakkan beberapa nuklir amerika ke Soviet, tidak menyadari bahwa hal tersebut benar-benar terjadi di dunia nyata. Film ini cukup membekas bagi presiden Amerika hingga akhirnya dia bertanya apakah hal tersebut benar bisa terjadi ke pemerintahan, dan setelah dilakukan penelitian ternyata hasilnya adalah iya. Dan akhirnya keamanan nuklir Amerika diperketat.
 
+![3d printer](https://user-images.githubusercontent.com/74659819/190961615-f30abef3-abe4-4005-a25f-3db20c2c5a19.jpg)
+
 Pada tahun 1983, seseorang yang bernama Charles "Chuck" Hull menciptakan __3-D printing__. Metode printing ini memiliki 2 metode, yaitu untuk mencek blueprint menggunakan software yang ada dan mencek ketersediaan material yang ada. Konsep 3-D printing kemudian dikembangkan seiring berjalannya waktu.
 
 
@@ -62,7 +64,7 @@ Pada tahun 1983, seseorang yang bernama Charles "Chuck" Hull menciptakan __3-D p
 # Ringkasan
 ---
 
-Kesimpulannya adalah
+Bisa dilihat bahwa 1980-an menjadi tahun-tahun yang monumental bagi dunia teknologi dengan banyaknya penciptaan teknologi-teknologi yang masih dipakai dan dikembangkan sampai sekarang, dan hal ini membuktikan bahwa kemajuan teknologi sangat pesat pada tahun-tahun tersebut.
 
 ---
 

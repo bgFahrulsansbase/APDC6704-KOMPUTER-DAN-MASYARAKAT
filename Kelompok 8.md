@@ -47,8 +47,9 @@ __TRON__ adalah sebuah film yang dirilis pada tahun 1982 yang mengimplementasika
 
 Seorang jurnalis yang bernama Otto Friedrich merilis sebuah artikel pada tahun 1982 yang diberi judul __Home Computer Named Machine of the Year__. Isi dari artikel ini menjelaskan bagaimana komputer personal adalah, menurut pendapat jurnalis itu, mesin terbaik yang diciptakan pada tahun 1982. Dia mengatakan hal tersebut karena komputer personal banyak sekali di pakai oleh orang-orang dengan pekerjaan yang berbeda-beda, dan komputer personal sangat bermanfaat bagi mereka.
 
-__The Qubit__ adalah sebuah komputer yang terbuat dari 8 bit kuantum dapat secara bersamaan mewakili 256 kemungkinan angka sambil mencari solusi yang dibuat pada tahun 1983. Qubit menjadi sebuah terobosan dalam dunia quantum computing dan menjadi inspirasi untuk teknologi-teknologi di jaman selanjutnya.
+__The Qubit__ adalah metode baru quantum computing yang membuat sebuah komputer bisa terbuat dari 8 bit kuantum yang dapat secara bersamaan mewakili 256 kemungkinan angka sambil mencari solusi. Qubit diciptakan pada tahun 1983 menjadi sebuah terobosan dalam dunia quantum computing dan menjadi inspirasi untuk teknologi-teknologi di jaman selanjutnya.
 
+WarGames adalah sebuah film yang dirilis pada tahun 1983 yang bercerita tentang perang dunia ke-3 antara Amerika dan Soviet. Secara singkatnya, di film ini diceritakan seorang lelaki yang tidak tau bahwa dirinya meretas sistem keamanan nuklir Amerika karena dia ditantang oleh seseorang secara online. Dia pun menembakkan beberapa nuklir amerika ke Soviet, tidak menyadari bahwa hal tersebut benar-benar terjadi di dunia nyata. Film ini cukup membekas bagi presiden Amerika hingga akhirnya dia bertanya apakah hal tersebut benar bisa terjadi ke pemerintahan, dan setelah dilakukan penelitian ternyata hasilnya adalah iya. Dan akhirnya keamanan nuklir Amerika diperketat.
 
 
 

@@ -35,7 +35,9 @@ Pada tahun 1980, Andy Bechtolsheim dan beberapa koleganya mendesain sistem kompu
 
 __PostScript__ adalah bahasa komputer yang membuat proses memprint pada jamannya menjadi lebih maju. PostScript dikembangkan oleh Chuck Geschke dan John Warnock pada tahun 1982. PostScript membuat font dan karakter menjadi bisa diakses oleh dokumen yang ingin di print, dan proses printing bisa memprint satu halaman penuh.
 
-Pada tahun 1981 IBM membuat kontrak kepada Microsoft untuk membuat sistem operasi 16-bit untuk komputer IBM pada saat itu yang secara fungsi mirip dengan komputer saingan perusahaan mereka. Singkat cerita Microsoft pun berhasil menciptakan sistem itu yang diberikan nama DOS, dan karena legalitas dari kontrak antara IBM dan Microsoft, Microsoft boleh menjual lisensi DOS ke perusahaan lain dan lisesnsi DOS pun banyak dibeli. Menghasilkan banyak perusahaan yang menjual komputer dengan sistem yang sama. __Microsoft and the clones__
+Pada tahun 1981 IBM membuat kontrak kepada Microsoft untuk membuat sistem operasi 16-bit untuk komputer IBM pada saat itu yang secara fungsi mirip dengan komputer saingan perusahaan mereka. Singkat cerita Microsoft pun berhasil menciptakan sistem itu yang diberikan nama DOS, dan karena legalitas dari kontrak antara IBM dan Microsoft, Microsoft boleh menjual lisensi DOS ke perusahaan lain dan lisesnsi DOS pun banyak dibeli. Menghasilkan banyak perusahaan yang menjual komputer dengan sistem yang sama. __Microsoft and the clones__.
+
+CGI pertama kali yang digunakan pada dunia perfilman adalah pada film Star Trek II: The Wrath of Khan, dan software digunakan adalah The Genesis sequence. Hal ini terjadi pada tahun 1982 dan pada saat itu dianggap menjadi terobosan yang baru bagi dunia perfilman. Oleh karena itu hal ini diberi julukan __First CGI Sequence in Feature Film__.
 
 
 

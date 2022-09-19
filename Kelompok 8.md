@@ -61,10 +61,9 @@ Setelah dikembangkan selama lebih 20 tahun, dengan 5000 pekerja, dan sekitar 100
 
 __First Laptop__ pertama kali diciptakan pada tahun 1983. Laptop yang hanya memiliki berat sebanyak 1,3 kilo dan baterai yang tahan selama 20 jam itu menjadi sebuah terobosan dalam dunia teknologi. Teknologi ini bisa dibawa kemana-mana dan memiliki sangat banyak kegunaan yang dianggap cukup canggih pada masanya.
 
+__MIDI__ menjadi salah satu penemuan pada tahun 1983 yang bisa dikatakan merevolusionalisasi industri musik dan tekbologi. Secara singkatnya, MIDI adalah protokol yang menghubungkan alat musik ke sebuah teknologi (misal komputer), dan dari sini banyak hal yang bisa dilakukan kepada data yang masuk  dari alat musik tadi. Misalnya adalah merekam audio , mengedit audio, dan memainkan audio.
 
-
-
-
+__Microsoft Word__ atau microsoft office word adalah perangkat lunak pengolah kata (word processor) andalan microsoft. Pertama diterbitkan pada 1983 dengan nama multi-tool word untuk Xenix, versi-versi lain juga dikembangkan untuk berbagai sistem operasi, misalnya DOS (1983), apple macintosh (1984), SCO UNIX, OS/2, dan microsoft windows (1989). Setelah menjadi bagian dari microsoft office sistem 2003 dan 2007 diberi nama microsoft office word. Microsoft Word dikembangkan oleh dua mantan karyawan Pusat Penelitian Xerox Palo Alto, Charles Simonyi dan Richard Brodie. Softtware ini banyak disukai oleh orang dan akhirnya menjadi standar bagi dunia akademik.
 
 ---
 # Ringkasan

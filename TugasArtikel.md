@@ -9,6 +9,9 @@
 
 Seiring majunya zaman, servis online menjadi lebih sering digunakan dan diimplementasikan oleh perusahaan-perusahaan. Hal ini disebabkan oleh kemajuan teknologi yang membuat hal-hal menjadi lebih cepat, fleksibel, dan mudah diakses. Dari segi pengantaran barang dan toko online, transaksi dilaksanakan melalui perangkat elektronik tanpa harus pergi ke tempat penyedia barang atau jasanya secara langsung, dan hal ini menjadi standar yang baru bagi perusahaan. Banyak perusahaan yang mulai mengembangkan aplikasi untuk menyediakan perantara yang bisa digunakan oleh konsumen. Semakin bagus sebuah aplikasi maka semakin loyal juga konsumennya. Dan banyak faktor dalam transaksi online yang memengaruhi perilaku konsumen, contohnya adalah ketersediaan barang, cepatnya perusahaan men-restok barang, dan pemenuhan pesanan. Artikel ini akan mencari tahu apakah ada hubungan antara faktor-faktor tersebut.
 
+![introartikel](https://user-images.githubusercontent.com/95398118/190961088-88a2c66c-e27d-490e-b034-788504b4064f.jpeg)
+
+
 
 
 ### Metode

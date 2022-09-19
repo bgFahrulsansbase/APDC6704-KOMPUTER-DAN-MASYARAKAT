@@ -12,8 +12,6 @@ Seiring majunya zaman, servis online menjadi lebih sering digunakan dan diimplem
 ![introartikel](https://user-images.githubusercontent.com/95398118/190961088-88a2c66c-e27d-490e-b034-788504b4064f.jpeg)
 
 
-
-
 ### Metode
 
 Terdapat 2 pertanyaan yang bisa diajukan mengenai aplikasi Gojek :
@@ -21,6 +19,7 @@ Terdapat 2 pertanyaan yang bisa diajukan mengenai aplikasi Gojek :
 2) Apa hubungan antara perilaku konsumen online dan performa pemenuhan pesanan?
 
 Digunakan 3 metode pencarian rujukan pada artikel ini, yaitu : electronic database research, peer review journal manual search, dan snowball. Setelah menerapkan metode-metode tersebut dan mempersepit pencarian artikel-artikel yang ada menggunakan keywords, terdapat 66 artikel yang bisa dianggap berhubungan dengan pertanyaan yang diajukan tadi. Setelah dilakukan penyaringan lagi dengan menggunakan syarat-syarat dari ahli, terdapat 51 artikel yang bisa direiew dan diekstrak datanya.
+![metodartikel](https://user-images.githubusercontent.com/95398118/190961330-d4c9847c-accc-49f7-9ef0-88f5ab8cffed.jpeg)
 
 
 ### Hasil dan Kesimpulan

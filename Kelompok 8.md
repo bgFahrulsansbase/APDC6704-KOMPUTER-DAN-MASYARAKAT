@@ -25,7 +25,13 @@ __IBM PC__ merupakan mikrokomputer pertama yang diciptakan pada tahun 1981 oleh 
 
 __SMTP__ mulai dikembangkan pada tahun 1980 oleh Jonathan Postel, dan sampai tahun 1981 SMTP terus dimodifikasi oleh insinyur-insinyur lainnya sampai produk akhirnya jadi. SMTP menjadi protokol standar bagi server pengiriman mail pada waktunya, dan bahkan sampai sekarang masih digunakan oleh beberapa penyedia servis mail.
 
+![fifth generation japan computer](https://user-images.githubusercontent.com/74659819/190943121-952d266b-fba4-44a4-9bef-59d2ad277750.jpg)
+
 Pada tahun 1981, Jepang mulai menginvestasi banyak uang negaranya untuk menciptakan generasi baru komputer yang dinamakan __Japan's Fifth Generation Computer Systems__. Komputer generasi baru ini dikatakan berbeda dari generasi sebelumnya, karena komputer ini lebih memfokuskan ke CPU untuk menaikkan performa komputer.
+
+__AutoCAD__ diciptakan pada tahun 1982 oleh John Walker dan Michael Riddle. AutoCAD adalah software untuk mendesain struktur blueprint bangunan, dan AutoCAD dianggap sebagai teknologi yang fenomenal pada waktunya. Karena software ini menaikkan produktivitas dan sangat mudah diakses bagi arsitektur bangunan.
+
+__First Commercial UNIX Workstation__
 
 ---
 # Ringkasan

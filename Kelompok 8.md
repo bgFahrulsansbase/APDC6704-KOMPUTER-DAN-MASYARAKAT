@@ -31,7 +31,13 @@ Pada tahun 1981, Jepang mulai menginvestasi banyak uang negaranya untuk mencipta
 
 __AutoCAD__ diciptakan pada tahun 1982 oleh John Walker dan Michael Riddle. AutoCAD adalah software untuk mendesain struktur blueprint bangunan, dan AutoCAD dianggap sebagai teknologi yang fenomenal pada waktunya. Karena software ini menaikkan produktivitas dan sangat mudah diakses bagi arsitektur bangunan.
 
-__First Commercial UNIX Workstation__
+Pada tahun 1980, Andy Bechtolsheim dan beberapa koleganya mendesain sistem komputer yang tidak memerlukan disk untuk mendownload sistem komputernya dan menginstall programnya. Sistem komputer ini menggunakan network local yang berkecepatan tinggi untuk kmenjalankan sistemnya. Kemudian pada tahun 1982 __First Commercial UNIX Workstation__ dikomersialisasikan.
+
+__PostScript__ adalah bahasa komputer yang membuat proses memprint pada jamannya menjadi lebih maju. PostScript dikembangkan oleh Chuck Geschke dan John Warnock pada tahun 1982. PostScript membuat font dan karakter menjadi bisa diakses oleh dokumen yang ingin di print, dan proses printing bisa memprint satu halaman penuh.
+
+Pada tahun 1981 IBM membuat kontrak kepada Microsoft untuk membuat sistem operasi 16-bit untuk komputer IBM pada saat itu yang secara fungsi mirip dengan komputer saingan perusahaan mereka. Singkat cerita Microsoft pun berhasil menciptakan sistem itu yang diberikan nama DOS, dan karena legalitas dari kontrak antara IBM dan Microsoft, Microsoft boleh menjual lisensi DOS ke perusahaan lain dan lisesnsi DOS pun banyak dibeli. Menghasilkan banyak perusahaan yang menjual komputer dengan sistem yang sama. __Microsoft and the clones__
+
+
 
 ---
 # Ringkasan

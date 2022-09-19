@@ -49,7 +49,9 @@ Seorang jurnalis yang bernama Otto Friedrich merilis sebuah artikel pada tahun 1
 
 __The Qubit__ adalah metode baru quantum computing yang membuat sebuah komputer bisa terbuat dari 8 bit kuantum yang dapat secara bersamaan mewakili 256 kemungkinan angka sambil mencari solusi. Qubit diciptakan pada tahun 1983 menjadi sebuah terobosan dalam dunia quantum computing dan menjadi inspirasi untuk teknologi-teknologi di jaman selanjutnya.
 
-WarGames adalah sebuah film yang dirilis pada tahun 1983 yang bercerita tentang perang dunia ke-3 antara Amerika dan Soviet. Secara singkatnya, di film ini diceritakan seorang lelaki yang tidak tau bahwa dirinya meretas sistem keamanan nuklir Amerika karena dia ditantang oleh seseorang secara online. Dia pun menembakkan beberapa nuklir amerika ke Soviet, tidak menyadari bahwa hal tersebut benar-benar terjadi di dunia nyata. Film ini cukup membekas bagi presiden Amerika hingga akhirnya dia bertanya apakah hal tersebut benar bisa terjadi ke pemerintahan, dan setelah dilakukan penelitian ternyata hasilnya adalah iya. Dan akhirnya keamanan nuklir Amerika diperketat.
+__WarGames__ adalah sebuah film yang dirilis pada tahun 1983 yang bercerita tentang perang dunia ke-3 antara Amerika dan Soviet. Secara singkatnya, di film ini diceritakan seorang lelaki yang tidak tau bahwa dirinya meretas sistem keamanan nuklir Amerika karena dia ditantang oleh seseorang secara online. Dia pun menembakkan beberapa nuklir amerika ke Soviet, tidak menyadari bahwa hal tersebut benar-benar terjadi di dunia nyata. Film ini cukup membekas bagi presiden Amerika hingga akhirnya dia bertanya apakah hal tersebut benar bisa terjadi ke pemerintahan, dan setelah dilakukan penelitian ternyata hasilnya adalah iya. Dan akhirnya keamanan nuklir Amerika diperketat.
+
+Pada tahun 1983, seseorang yang bernama Charles "Chuck" Hull menciptakan __3-D printing__. Metode printing ini memiliki 2 metode, yaitu untuk mencek blueprint menggunakan software yang ada dan mencek ketersediaan material yang ada. Konsep 3-D printing kemudian dikembangkan seiring berjalannya waktu.
 
 
 

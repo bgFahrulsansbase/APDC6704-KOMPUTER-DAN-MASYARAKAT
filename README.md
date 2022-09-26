@@ -2,104 +2,143 @@
 ---  
 ### Oleh Kelompok 8 : Fahrul Ikhsan Hidayatullah (1910131210004) & Haili Sahwardi (1910131210016)
 ---  
-### a. 1980 _Commercially Available Ethernet_
-
-#### 1.1 Jenis-jenis LAN
-
-Berbagai jenis LAN pada dasarnya ada dua jenis yaitu: ARCnet dan Ethernet. ARCNET (Attached Resource Computer NETwork) adalah salah satu jenis protokol jaringan area lokal yang tertua, paling sederhana, dan paling murah, yang fungsinya mirip dengan Ethernet atau Token Ring. ARCNET adalah sistem jaringan pertama yang tersedia secara luas untuk mikrokomputer dan menjadi populer pada 1980-an untuk tugas otomatisasi kantor. ARCnet diperkenalkan oleh Datapoint Corporation pada tahun 1977. Keuntungan khusus dari ARCNET adalah memungkinkan berbagai jenis media transmisi -twisted-pair wire, coaxial cable, dan fiber optic cable -untuk dicampur pada jaringan yang sama.
-Spesifikasinya adalah ANSI 878.1. Itu dapat memiliki hingga 255 node pernetwork.
-
-#### 1.2 Ethernet
-
-Ethernet adalah cara standar menghubungkan komputer untuk membuat jaringan. Bisa dikatakan juga bahwa Ethernet sebagai semacam kode pembangunan untuk jaringan, ini menentukan jenis kabel apa yang digunakan, bagaimana menghubungkan kabel, berapa lama kabel bisa digunakan, bagaimana komputer mengirimkan data ke satu sama lain dengan menggunakan kabel, dan banyak lagi. Ethernet sering disebut oleh para ahli jaringan sebagai 802.3²⁹³.
-
-#### 1.3 1980 Commercially Available Ethernet
-
-Ethernet adalah teknologi jaringan komputer untuk jaringan area lokal yang diperkenalkan secara komersial pada tahun 1980. Distandarisasi dalam IEEE 802.3, Ethernet sebagian besar telah menggantikan teknologi jaringan area lokal kabel yang bersaing. Ethernet menggunakan jaringan topologi bus atau star dan mendukung kecepatan transfer data 10 Mbps. Dan versi terbaru, Gigabit Ethernet mendukung kecepatan data 1 gigabit (1.000 megabit) per detik. Ethernet adalah teknologi lapisan fisik dan data link untuk jaringan area lokal (LAN). 
-
-#### 1.4 Sejarah Ethernet  
-
-Ethernet adalah suatu sistem jaringan yang dibuat dan dipatenkan perusahaan Xerox dan merupakan implementasi dari metode CSMA/CD (Carrier Sense Multiple Access) yang dikembangkan tahun 1960 pada proyek wireless ALOHA di Hawaii University pada kabel coaxial. Ethernet asli diciptakan pada tahun 1976 di Xerox's Palo Alto Research Center (PARC). Sejak itu, telah melalui empat generasi yaitu Ethernet standard (10 Mbps), Fast Ethernet (100 Mbps), Gigabit Ethernet (1 Gbps), dan ten-Gigabit Ethernet (l0 Gbps). Jaringan Ethernet ditemukan oleh insinyur Robert Metcalfe. Robert mengembangkan Ethernet di Xerox Palo Alto Research Center (alias Xerox PARC) di Silicon Valley. Oleh pertengahan 1980-an, itu adalah teknologi jaringan paling populer untuk industri swasta di seluruh dunia. Sepanjang 1980-an dan awal 1990-an, jaringan intracorporate ini berkembang biak, dihubungkan bersama, dan menjadi satu dasar-dasar infrastruktur Internet (Abbate, 1999, hlm. 187–188; Burg, 2001, hlm. 74-77; Crovitz, 2012). Pada fase pengembangan dan komersialisasi, Ethernet dibingkai sedemikian rupa sehingga pengacara paten Xerox dan komunitas Xerox PARC, Institute of Electrical and Electronics Engineers (IEEE) dan calon Ethernet vendor perangkat keras mengajukan banding ke berbagai konstituen selama fase komersialisasi. Para insinyur di Xerox PARC mempekerjakan metafora "ether" dengan cara yang membantu memahami ide-ide mereka dan juga dengan cara yang terstruktur masa depan jaringan informasi digital. Analisis fungsi "kognitif" dan "normatif" ini metafora (Wyatt, 2004) menjelaskan asumsi dan aspirasi yang membantu membentuk Ethernet di khususnya, dan Internet pada umumnya.
-
-#### 1.5 Fungsi Ethernet  
-
-Ethernet adalah sistem jaringan area lokal (LAN), yang berarti menghubungkan komputer dan digital perangkat dalam area geografis kecil, seperti di dalam gedung perkantoran. Ethernet digunakan dalam teknologi akses menyediakan akses internet atau interface user ke network. Sampai saat ini kondisi tersebut masih berjalan tetapi standar ethernet-nya sendiri dikembangkan untuk mampu melayani data pada jaringan transport. Fungsi-fungsi layanan pada teknologi ethernet sebagai jaringan transport merupakan hasil pengembangan yang terus menerus. Arsitektur Ethernet memiliki kemampuan berbagi bandwidth atau resource dalam suatu jaringan yang sama. Protokol yang digunakan pada arsitektur ini adalah CSMA/CD (Carrier Sense Multiple Access With Collision Detections), protokol ini berfungsi supaya tidak terjadi collision ketika berbagi bandwidth. Collision merupakan suatu kondisi dimana ada beberapa source computer yang mengirimkan data pada saat yang sama sehingga data yang dikirimkan melalui jaringan tersebut akan bertabrakan dan data tidak akan terkirim.  
-
----  
-### b. 1983 _Microsoft Word_ 
-
-Word dikembangkan oleh dua mantan karyawan Pusat Penelitian Xerox Palo Alto
-—Charles Simonyi dan Richard Brodie—keduanya
-menciptakan apa yang pertama di dunia Apa yang Anda Lihat Adalah Apa yang Anda Dapatkan (WYSIWYG) pengolah kata, Bravo. WYSIWYG berarti bahwa kata
-prosesor berjalan pada layar grafis, menunjukkan font dengan jarak proporsional,
-boldface, cetak miring, dan banyak lagi.
-
-Word 1.0 (awalnya bernama Multi-Tool Word) dirilis pada bulan Oktober
-1983 untuk sistem operasi MS-DOS dan Xenix. Tapi itu bukan yang pertama:
-program yang bersaing termasuk WordPerfect®, pengolah kata mode teks
-dikembangkan untuk komputer mini Data Umum, dan WordStar, sebuah kata
-prosesor yang dibuat untuk komputer mikro 8-bit, keduanya dikembangkan pada akhir
-1970-an dan di-porting ke MS-DOS pada tahun 1982. Ketiga program berjalan dalam mode teks;
-Word tidak berjalan dalam mode grafis pada PC sampai tahun 1989, ketika Microsoft
-merilis Word untuk Windows. Microsoft melakukan semua yang bisa dilakukan untuk mendorong adopsi Word, termasuk
-bundling salinan gratis dari program dalam edisi November 1983
-Majalah PCWorld, pertama kalinya disk didistribusikan oleh majalah.
-
-Versi WYSIWYG pertama dari Microsoft Word adalah Word untuk
-Apple Macintosh, yang dikirim Microsoft pada tahun 1985. Programnya begitu
-populer—dan jauh lebih baik daripada Word di MS-DOS—sehingga membantu bahan bakar
-penjualan Macintosh. Word diuntungkan saat sistem operasi Microsoft semakin populer—
-MS-DOS pertama, lalu Windows—dan sebagai alat di Microsoft Office Suite
-Diperluas. Seiring waktu, semakin banyak orang yang menggunakan Word, semakin sulit menjadi kolaborator mereka untuk menggunakan pengolah kata lain—prima
-contoh dari apa yang sekarang disebut oleh para ekonom sebagai efek jaringan.  
-
-#### 2.1 Microsoft office
-
-Sejarah Microsoft Office dan perkembangannya dari tahun ke tahun memang perlu
-kita ketahui, agar kita juga tidak ketinggalan versi-versi terbarunya. Karena tidak bisa
-dipungkiri lagi, dizaman sekarang keseharian hidup kita dalam hal pekerjaan “ misalnya
-“ tidak lepas dari Aplikasi perkantoran ini, seperti halnya untuk membuat surat, menginput
-data karyawan, membuat karya ilmiah dan lan sebagainya, semua itu kita bisa memanfaatkan
-Microsoft Office. Jadi, alangkah baiknya kita mengenal lebih jauh tentang sejarah Microsoft
-Office dan perkembangannya hingga sampai saat ini. Dalam perjalanannya, sejarah Microsoft
-Office banyak mengalami perubahan dan penambahan fasilitas dari tahun pertama kali
-diperkenalkannya yaitu tahun 1989. Dan untuk mengenal lebih jauh serta mengikuti
-perkembangannya, berikut awalmula.com kutipan dari berbagai sumber sejarah dan
-perkembangan Microsoft Office (Wali, 2018)
-
-#### 2.2 Pengertian Microsoft Word
-
-Microsoft word atau microsoft office word adalah perangkat lunak pengolah kata (word
-processor) andalan microsoft. Pertama diterbitkan pada 1983 dengan nama multi-tool word
-untuk Xenix, versi-versi lain juga dikembangkan untuk berbagai sistem operasi, misalnya
-DOS (1983), apple macintosh (1984), SCO UNIX, OS/2, dan microsoft windows (1989).
-Setelah menjadi bagian dari microsoft office sistem 2003 dan 2007 diberi nama microsoft
-office word (Wali, 2018)
-
-#### 2.3 Menu-menu pada Microsoft word
-
-1. Menu file  
-Beberapa menu file, sub menu file diantaranya:  
-
-+ New : membuka document baru yang masih kosong  
-+ Open: membyuka file document yang telah disimpan  
-+ Close: menutup document  
-+ Save : menyimpan document ke media penyimpanan  
-+ Save As : menyimpan document ke media penyimpanan dengan format lain  
-+ Save As web Page : menyimpan dalam format file web page  
-+ Search : mencari teks tertentu dari suatu file  
-+ Versions : untuk mengetahui versi Ms. Word  
-+ Web page priview : melihat tampilan dokumen dalam format web page  
-+ Page setup : mengatur tampilan halaman yang akan di cetak  
-+ Print priview :melihat tampilan dari dokumen yag akan di cetak  
-+ Print : mencetak dokumen dan mengatur kerja printer  
-+ Send to :mengirim document melalui E-mail  
-+ Propertise :mengetahui beberapa keterangan mengenai dokument.  
-+ Exit : menutup program Ms. Word  
 
 
-## DAFTAR PUSTAKA   
-1. Schaefer, P. (2013). Why is" ether" in Ethernet?. International Journal of Communication (19328036), 7.  
-2. Tim, E. M. S. (2015). Kamus komputer lengkap. Elex Media Komputindo.  
-3. Rastogi, U. (2019). Computer network and its consequences–a literature survey. International Journal of Health, Education & Social (IJHES), 2(11), 5-19.  
-4. Bachtiar, Y. (2015). Peranan Metro Ethernet Sebagai Penghubung Komunikasi Antar Sto. Univ. Diponegoro.  
+---
+# Introduksi
+---
+1980-an adalah rentetan tahun-tahun yang menarik bagi pengembangan tekbologi. Banyak sekali hal-hal yang tercipta di tahun-tahun ini contohnya seperti komputer, konsol video game, laptop, dll. yang masih digunakan dan dikembangan sampai sekarang. Berikut adalah rekap singkat tentang perkembangan teknologi mulai dari 1980 sampai 1983 :
+
+---
+# Isi
+---
+
+
+1980 - Commercially Available Ethernet
+--
+Pada tahun 1973 __Ethernet__ diciptakan oleh sebuah tim di California yang bernama Xerox Corporation's Palo Alto Research Center (Xerox PARC), tim ini dipimpin oleh insinyur listrik keturunan Amerika yang bernama Robert Metcalfe. Ethernet berguna untuk menghubungkan beberapa komputer yang berjarak jauh. Ethernet dikomersialisasikan pada tahun 1980.
+
+1980 - Usenet
+--
+Pada tahun 1979 __Usenet__ mulai dikembangkan oleh dua orang mahasiswa dari Duke University yang bernama Tom Truscott and Jim Ellis, dan Usenet selesai dikembangkan pada tahun 1980. Usenet adalah sebuah sistem pada komputer yang bisa membuat orang-orang saling mengirim pesan dan berdiskusi tentang sebuah topik. Cara kerjanya mirip dengan forum-forum yang terdapat di Internet pada jaman kita sekarang.
+
+1981 - IBM PC
+--
+![800px-IBM_PC-IMG_7271_(transparent)](https://user-images.githubusercontent.com/74659819/190919807-0024ae91-cc49-4ee9-aa2a-02f78676c41e.png)
+
+__IBM PC__ merupakan mikrokomputer pertama yang diciptakan pada tahun 1981 oleh tim insinyur yang dipimpin oleh Don Estridge. IBM PC menjadi landasan besar untuk komputer-komputer yang kita lihat sekarang, mulai dari bentuknya samapai komponen-komponennnya.
+
+1981 - Simple Mail Transfer Protocl
+--
+
+__SMTP__ mulai dikembangkan pada tahun 1980 oleh Jonathan Postel, dan sampai tahun 1981 SMTP terus dimodifikasi oleh insinyur-insinyur lainnya sampai produk akhirnya jadi. SMTP menjadi protokol standar bagi server pengiriman mail pada waktunya, dan bahkan sampai sekarang masih digunakan oleh beberapa penyedia servis mail.
+
+1981 - Japan's Fifth Generation Computer Systems
+--
+
+![fifth generation japan computer](https://user-images.githubusercontent.com/74659819/190943121-952d266b-fba4-44a4-9bef-59d2ad277750.jpg)
+
+Pada tahun 1981, Jepang mulai menginvestasi banyak uang negaranya untuk menciptakan generasi baru komputer yang dinamakan __Japan's Fifth Generation Computer Systems__. Komputer generasi baru ini dikatakan berbeda dari generasi sebelumnya, karena komputer ini lebih memfokuskan ke CPU untuk menaikkan performa komputer.
+
+1982 - AutoCAD
+--
+
+__AutoCAD__ diciptakan pada tahun 1982 oleh John Walker dan Michael Riddle. AutoCAD adalah software untuk mendesain struktur blueprint bangunan, dan AutoCAD dianggap sebagai teknologi yang fenomenal pada waktunya. Karena software ini menaikkan produktivitas dan sangat mudah diakses bagi arsitektur bangunan.
+
+1982 - First Commerical UNIX Workstation
+--
+
+Pada tahun 1980, Andy Bechtolsheim dan beberapa koleganya mendesain sistem komputer yang tidak memerlukan disk untuk mendownload sistem komputernya dan menginstall programnya. Sistem komputer ini menggunakan network local yang berkecepatan tinggi untuk kmenjalankan sistemnya. Kemudian pada tahun 1982 __First Commercial UNIX Workstation__ dikomersialisasikan.
+
+1982 - PostScript
+--
+
+__PostScript__ adalah bahasa komputer yang membuat proses memprint pada jamannya menjadi lebih maju. PostScript dikembangkan oleh Chuck Geschke dan John Warnock pada tahun 1982. PostScript membuat font dan karakter menjadi bisa diakses oleh dokumen yang ingin di print, dan proses printing bisa memprint satu halaman penuh.
+
+1982 - Microsoft and the Clones
+--
+
+Pada tahun 1981 IBM membuat kontrak kepada Microsoft untuk membuat sistem operasi 16-bit untuk komputer IBM pada saat itu yang secara fungsi mirip dengan komputer saingan perusahaan mereka. Singkat cerita Microsoft pun berhasil menciptakan sistem itu yang diberikan nama DOS, dan karena legalitas dari kontrak antara IBM dan Microsoft, Microsoft boleh menjual lisensi DOS ke perusahaan lain dan lisesnsi DOS pun banyak dibeli. Menghasilkan banyak perusahaan yang menjual komputer dengan sistem yang sama. __Microsoft and the clones__.
+
+1982 - First CGI Sequence in Featyre Film
+--
+
+CGI pertama kali yang digunakan pada dunia perfilman adalah pada film Star Trek II: The Wrath of Khan yang dirilis pada tahun 1982, dan software digunakan adalah The Genesis sequence. Hal ini terjadi pada tahun 1982 dan pada saat itu dianggap menjadi terobosan yang baru bagi dunia perfilman. Oleh karena itu hal ini diberi julukan __First CGI Sequence in Feature Film__.
+
+1982 - National Geographic Moves the Pyramids
+--
+
+![piramida national geographic](https://user-images.githubusercontent.com/74659819/190955156-d24ad38c-4765-484e-a8bd-b48a48caa027.jpg)
+
+Scitex adalah program yang digunakan National Graphics untuk mendesain salah satu dari gambarnya. Gambar tersebut di edit menggunakan Scitex untuk menampilkan pemandagan yang menakjubkan. Dengan bergantinya proses pengeditan ke era digital, banyak software-software pengedit gambar yang akan muncul di masa depan. Karena gambar yang di edit oleh National Graphics adalah gambar piramid, maka fenomena pada tahun 1982 ini disebut __National Geographic Moves the Pyramids__.
+
+1982 - Secure Multi-Party Computation
+--
+
+Pada tahun 1982, seorang teoris dan ilmuwan komputer yang bernama Andrew Yao mengemukakan sebuah masalah matematika yang berhasil membuatnya memenangkan sebuah penghargaan, dan menjadi sebuah konsep yang direalisasikan ke teknologi sekarang. __Secure Multi-Party Computation__ adalah sebuah konsep dimana kita bisa mengetahui informasi dan disaat yang sama menjaga privasi kita. Contohnya di jaman sekarang adaalh auksi di e-Bay yang menjaga informasi pembelinya.
+
+1982 - TRON
+--
+
+__TRON__ adalah sebuah film yang dirilis pada tahun 1982 yang mengimplementasikan animasi komputer di dalam adegannya. Animasi tersebut dianimasi menggunakan software dan film ini dianggap sebagai sebuah terobosan bagi dunia perfilman. TRON menjadi sangat populer setelah video game yang berbasis dari film animasi tadi dibuat dan didistribusikan ke arcade-arcade.
+
+1982 - Home Computer Named Machine of the Year
+--
+
+Seorang jurnalis yang bernama Otto Friedrich merilis sebuah artikel pada tahun 1982 yang diberi judul __Home Computer Named Machine of the Year__. Isi dari artikel ini menjelaskan bagaimana komputer personal adalah, menurut pendapat jurnalis itu, mesin terbaik yang diciptakan pada tahun 1982. Dia mengatakan hal tersebut karena komputer personal banyak sekali di pakai oleh orang-orang dengan pekerjaan yang berbeda-beda, dan komputer personal sangat bermanfaat bagi mereka.
+
+1983 - The Qubit
+--
+
+__The Qubit__ adalah metode baru quantum computing yang membuat sebuah komputer bisa terbuat dari 8 bit kuantum yang dapat secara bersamaan mewakili 256 kemungkinan angka sambil mencari solusi. Qubit diciptakan pada tahun 1983 menjadi sebuah terobosan dalam dunia quantum computing dan menjadi inspirasi untuk teknologi-teknologi di jaman selanjutnya.
+
+1983 - WarGames
+--
+
+__WarGames__ adalah sebuah film yang dirilis pada tahun 1983 yang bercerita tentang perang dunia ke-3 antara Amerika dan Soviet. Secara singkatnya, di film ini diceritakan seorang lelaki yang tidak tau bahwa dirinya meretas sistem keamanan nuklir Amerika karena dia ditantang oleh seseorang secara online. Dia pun menembakkan beberapa nuklir amerika ke Soviet, tidak menyadari bahwa hal tersebut benar-benar terjadi di dunia nyata. Film ini cukup membekas bagi presiden Amerika hingga akhirnya dia bertanya apakah hal tersebut benar bisa terjadi ke pemerintahan, dan setelah dilakukan penelitian ternyata hasilnya adalah iya. Dan akhirnya keamanan nuklir Amerika diperketat.
+
+1983 - 3-D Printing
+--
+
+![3d printer](https://user-images.githubusercontent.com/74659819/190961615-f30abef3-abe4-4005-a25f-3db20c2c5a19.jpg)
+
+Pada tahun 1983, seseorang yang bernama Charles "Chuck" Hull menciptakan __3-D printing__. Metode printing ini memiliki 2 metode, yaitu untuk mencek blueprint menggunakan software yang ada dan mencek ketersediaan material yang ada. Konsep 3-D printing kemudian dikembangkan seiring berjalannya waktu.
+
+1983 - Computerization of the Local Telephone Network
+--
+
+Setelah dikembangkan selama lebih 20 tahun, dengan 5000 pekerja, dan sekitar 100 juta line baris code yang dituliskan disebuah sistem. Akhirnya __Computerization of the Local telephone Network__ berhasil terealisasi. Oleh karena itu pada tahun 1983, orang-orang jadi lebih mudah berkomunikasi satu sama lain karena teknologi telepon sudah sangat maju.
+
+1983 - First Laptop
+--
+
+![laptoppertama](https://user-images.githubusercontent.com/74659819/190964005-ea123426-0f3a-49c6-8117-269503c68fbe.jpg)
+
+__First Laptop__ pertama kali diciptakan pada tahun 1983. Laptop yang hanya memiliki berat sebanyak 1,3 kilo dan baterai yang tahan selama 20 jam itu menjadi sebuah terobosan dalam dunia teknologi. Teknologi ini bisa dibawa kemana-mana dan memiliki sangat banyak kegunaan yang dianggap cukup canggih pada masanya.
+
+1983 - MIDI Computer Music Interface
+--
+
+__MIDI__ menjadi salah satu penemuan pada tahun 1983 yang bisa dikatakan merevolusionalisasi industri musik dan tekbologi. Secara singkatnya, MIDI adalah protokol yang menghubungkan alat musik ke sebuah teknologi (misal komputer), dan dari sini banyak hal yang bisa dilakukan kepada data yang masuk  dari alat musik tadi. Misalnya adalah merekam audio , mengedit audio, dan memainkan audio.
+
+1983 - Microsoft Word
+--
+
+__Microsoft Word__ atau microsoft office word adalah perangkat lunak pengolah kata (word processor) andalan microsoft. Pertama diterbitkan pada 1983 dengan nama multi-tool word untuk Xenix, versi-versi lain juga dikembangkan untuk berbagai sistem operasi, misalnya DOS (1983), apple macintosh (1984), SCO UNIX, OS/2, dan microsoft windows (1989). Setelah menjadi bagian dari microsoft office sistem 2003 dan 2007 diberi nama microsoft office word. Microsoft Word dikembangkan oleh dua mantan karyawan Pusat Penelitian Xerox Palo Alto, Charles Simonyi dan Richard Brodie. Softtware ini banyak disukai oleh orang dan akhirnya menjadi standar bagi dunia akademik.
+
+---
+# Ringkasan
+---
+
+Bisa dilihat bahwa 1980-an menjadi tahun-tahun yang monumental bagi dunia teknologi dengan banyaknya penciptaan teknologi-teknologi yang masih dipakai dan dikembangkan sampai sekarang, dan hal ini membuktikan bahwa kemajuan teknologi sangat pesat pada tahun-tahun tersebut.
+
+---
+
+### Daftar Pustaka
+
+1. Schaefer, P. (2013). Why is" ether" in Ethernet?. International Journal of Communication (19328036), 7.
+2. Tim, E. M. S. (2015). Kamus komputer lengkap. Elex Media Komputindo.
+3. Rastogi, U. (2019). Computer network and its consequences–a literature survey. International Journal of Health, Education & Social (IJHES), 2(11), 5-19.
+4. Bachtiar, Y. (2015). Peranan Metro Ethernet Sebagai Penghubung Komunikasi Antar Sto. Univ. Diponegoro.
+5. Simson L. Garfinkel, R. H. (2018). The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science. New York: Sterling.
+

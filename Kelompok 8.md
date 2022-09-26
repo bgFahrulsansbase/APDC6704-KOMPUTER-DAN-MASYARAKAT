@@ -87,15 +87,30 @@ __TRON__ adalah sebuah film yang dirilis pada tahun 1982 yang mengimplementasika
 
 Seorang jurnalis yang bernama Otto Friedrich merilis sebuah artikel pada tahun 1982 yang diberi judul __Home Computer Named Machine of the Year__. Isi dari artikel ini menjelaskan bagaimana komputer personal adalah, menurut pendapat jurnalis itu, mesin terbaik yang diciptakan pada tahun 1982. Dia mengatakan hal tersebut karena komputer personal banyak sekali di pakai oleh orang-orang dengan pekerjaan yang berbeda-beda, dan komputer personal sangat bermanfaat bagi mereka.
 
+1983 - The Qubit
+--
+
 __The Qubit__ adalah metode baru quantum computing yang membuat sebuah komputer bisa terbuat dari 8 bit kuantum yang dapat secara bersamaan mewakili 256 kemungkinan angka sambil mencari solusi. Qubit diciptakan pada tahun 1983 menjadi sebuah terobosan dalam dunia quantum computing dan menjadi inspirasi untuk teknologi-teknologi di jaman selanjutnya.
 
+1983 - WarGames
+--
+
 __WarGames__ adalah sebuah film yang dirilis pada tahun 1983 yang bercerita tentang perang dunia ke-3 antara Amerika dan Soviet. Secara singkatnya, di film ini diceritakan seorang lelaki yang tidak tau bahwa dirinya meretas sistem keamanan nuklir Amerika karena dia ditantang oleh seseorang secara online. Dia pun menembakkan beberapa nuklir amerika ke Soviet, tidak menyadari bahwa hal tersebut benar-benar terjadi di dunia nyata. Film ini cukup membekas bagi presiden Amerika hingga akhirnya dia bertanya apakah hal tersebut benar bisa terjadi ke pemerintahan, dan setelah dilakukan penelitian ternyata hasilnya adalah iya. Dan akhirnya keamanan nuklir Amerika diperketat.
+
+1983 - 3-D Printing
+--
 
 ![3d printer](https://user-images.githubusercontent.com/74659819/190961615-f30abef3-abe4-4005-a25f-3db20c2c5a19.jpg)
 
 Pada tahun 1983, seseorang yang bernama Charles "Chuck" Hull menciptakan __3-D printing__. Metode printing ini memiliki 2 metode, yaitu untuk mencek blueprint menggunakan software yang ada dan mencek ketersediaan material yang ada. Konsep 3-D printing kemudian dikembangkan seiring berjalannya waktu.
 
+1983 - Computerization of the Local Telephone Network
+--
+
 Setelah dikembangkan selama lebih 20 tahun, dengan 5000 pekerja, dan sekitar 100 juta line baris code yang dituliskan disebuah sistem. Akhirnya __Computerization of the Local telephone Network__ berhasil terealisasi. Oleh karena itu pada tahun 1983, orang-orang jadi lebih mudah berkomunikasi satu sama lain karena teknologi telepon sudah sangat maju.
+
+1983 - First Laptop
+--
 
 ![laptoppertama](https://user-images.githubusercontent.com/74659819/190964005-ea123426-0f3a-49c6-8117-269503c68fbe.jpg)
 
